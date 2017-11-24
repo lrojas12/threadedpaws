@@ -19,7 +19,13 @@
 
 .desc {
     margin-top: 35px;
+    margin-bottom: 50px;
     line-height: 25px;
     font-family: Helvetica, Verdana, Arial, sans-serif;
     font-size: 15px;
+}
+
+.tp-logo {
+    margin-top: 35px;
+    margin-bottom: 35px;
 }
